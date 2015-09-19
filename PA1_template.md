@@ -65,7 +65,7 @@ a + geom_histogram(fill = "steelblue") +
         theme_bw()
 ```
 
-![plot of chunk StepsPerDayHistogram](figure/StepsPerDayHistogram-1.png) 
+![plot of chunk StepsPerDayHistogram](PA1_template_files/figure-html/StepsPerDayHistogram-1.png) 
 
 Calculating the mean and the median of total steps per day
 
@@ -123,7 +123,7 @@ a + geom_line(color = "steelblue", size = 1) +
         theme_bw()
 ```
 
-![plot of chunk AverageStepsTimeSeries](figure/AverageStepsTimeSeries-1.png) 
+![plot of chunk AverageStepsTimeSeries](PA1_template_files/figure-html/AverageStepsTimeSeries-1.png) 
 
 Finding The 5-minute interval with the maximum average number of steps.
 
@@ -226,7 +226,7 @@ a + geom_histogram(fill = "steelblue") +
         theme_bw()
 ```
 
-![plot of chunk StepsPerDayHistogramImputed](figure/StepsPerDayHistogramImputed-1.png) 
+![plot of chunk StepsPerDayHistogramImputed](PA1_template_files/figure-html/StepsPerDayHistogramImputed-1.png) 
 
 The mean and median of the imputed total steps is:
 
@@ -332,7 +332,7 @@ a + geom_line(color = "steelblue", size = 1) +
         theme_bw()
 ```
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-1.png) 
+![plot of chunk unnamed-chunk-4](PA1_template_files/figure-html/unnamed-chunk-4-1.png) 
 
 We notice from the above plot, that steps are much less in the start of the weekend day, 
 compared to the start of a weekday.
